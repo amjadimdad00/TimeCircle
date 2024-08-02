@@ -4,4 +4,4 @@ A visually appealing analog clock application that displays the current time wit
 
 ## Interface
 
-![Clock]()
+![Clock](/AnalogClock.png)
